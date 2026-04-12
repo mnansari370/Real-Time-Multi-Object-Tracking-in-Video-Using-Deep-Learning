@@ -1,0 +1,16 @@
+==============================================
+   Multi-Object Tracking - Summary Report
+==============================================
+
+  Frames processed  : 329
+  Duration          : 32.71 s
+  Average FPS       : 10.1
+  Total unique IDs  : 53
+
+  Unique tracks by class:
+    person                : 26
+    handbag               : 19
+    backpack              : 6
+    suitcase              : 2
+
+==============================================

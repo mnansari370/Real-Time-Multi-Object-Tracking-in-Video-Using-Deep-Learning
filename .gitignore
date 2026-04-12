@@ -18,14 +18,11 @@ ENV/
 # Conda
 .conda/
 
-# Output files
+# Output files — keep video out (too large), include everything else
 outputs/*.mp4
-outputs/*.png
-outputs/*.csv
-outputs/*.txt
 !outputs/.gitkeep
 
-# Input videos
+# Input videos (too large for GitHub)
 data/input/*.mp4
 data/input/*.avi
 data/input/*.mov
