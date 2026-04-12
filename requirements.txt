@@ -1,0 +1,11 @@
+ultralytics
+torch
+torchvision
+opencv-python-headless
+filterpy
+scipy
+numpy==1.26.4
+imageio
+imageio-ffmpeg
+pandas
+matplotlib
